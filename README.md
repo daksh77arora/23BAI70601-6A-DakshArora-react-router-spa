@@ -284,23 +284,5 @@ This project is created for educational purposes as part of university coursewor
 
 Created as part of Full Stack - II course requirements.
 
-## 🙏 Acknowledgments
+ - Fast build tool setup
 
-- **Instructor:** Mr. Prince Pal Singh
-- **Course:** Full Stack - II (23CSH-382)
-- **Institution:** AIT-CSE CORE & AIML
-- **React Router Documentation** - Comprehensive routing guide
-- **Vite Documentation** - Fast build tool setup
-
-## 📞 Support
-
-For questions or issues related to this project:
-- 📧 Email: prince.18505@cumail.in
-- 🏫 Department: AIT-CSE CORE & AIML
-- 📚 Course: Full Stack - II
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
-
-Made with ❤️ using React and React Router
